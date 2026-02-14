@@ -26,27 +26,27 @@ These are the accuracies for all three models, when tested on images with a spec
 
 ### Qwen:
 
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_10.png "Layer 10")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_16.png "Layer 16")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_17.png "Layer 17")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_20.png "Layer 20")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_28.png "Layer 28")
 
 ### LLaVA:
 
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/llava_plots/llava_5.png "Layer 5")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/llava_plots/llava_10.png "Layer 10")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/llava_plots/llava_12.png "Layer 12")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/llava_plots/llava_19.png "Layer 19")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/llava_plots/llava_32.png "Layer 32")
 
 ### Molmo:
 
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
-![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/qwen_plots/qwen_5.png "Layer 5")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/molmo_plots/molmo_5.png "Layer 5")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/molmo_plots/molmo_12.png "Layer 12")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/molmo_plots/molmo_16.png "Layer 16")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/molmo_plots/molmo_20.png "Layer 20")
+![alt text](https://github.com/0x0c5cbae8/SURF-Task/raw/main/molmo_plots/molmo_28.png "Layer 28")
 
 ## Discussion
 
